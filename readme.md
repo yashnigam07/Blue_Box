@@ -38,12 +38,6 @@ Interactive 3D scene built with **Three.js**, featuring real-time controls, anim
 
 ---
 
-## 📸 Preview
-
-> *(Add preview GIF or screenshot here)*
-
----
-
 ## 📍 Live
 
 🔗 [blue-box-nu.vercel.app](https://blue-box-nu.vercel.app/)
